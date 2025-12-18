@@ -14,18 +14,6 @@
           "path": "‪C:\\Users\\maith\\OneDrive\\Máy tính\\FTMO MT5\\terminal64.exe",
           "open": ["08:20"],
           "close": ["08:30"]
-        },
-        {
-          "name": "MT4_SCALP",
-          "path": "C:\\Program Files (x86)\\FTMO Global Markets MT4 Terminal\\terminal.exe",
-          "open": ["08:20"],
-          "close": ["08:30"]
-        },
-        {
-          "name": "MT4_SWING",
-          "path": "C:\\Program Files (x86)\\FXPIG MetaTrader 4\\terminal.exe",
-          "open": ["08:20"],
-          "close": ["08:30"]
         }
       ]
     }
