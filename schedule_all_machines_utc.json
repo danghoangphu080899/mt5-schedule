@@ -6,13 +6,13 @@
         {
           "name": "MT5_EURUSD",
           "path": "C:\\Program Files\\FTMO Global Markets MT5 Terminal\\terminal64.exe",
-          "open": ["08:30"],
+          "open": ["08:40"],
           "close": ["08:50"]
         },
         {
           "name": "MT5_GOLD",
           "path": "‪C:\\Users\\maith\\OneDrive\\Máy tính\\FTMO MT5\\terminal64.exe",
-          "open": ["08:30"],
+          "open": ["08:40"],
           "close": ["08:50"]
         }
       ]
