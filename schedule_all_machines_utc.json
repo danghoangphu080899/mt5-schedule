@@ -1,21 +1,5 @@
 {
   "TRI": {
-    "2025-12-18": {
-      "delay_seconds": 15,
-      "terminals": [
-        {
-          "name": "MT5_EURUSD",
-          "path": "C:\\Program Files\\FTMO Global Markets MT5 Terminal\\terminal64.exe",
-          "open": ["08:40"],
-          "close": ["08:50"]
-        },
-        {
-          "name": "MT5_GOLD",
-          "path": "‪C:\\Users\\maith\\OneDrive\\Máy tính\\FTMO MT5\\terminal64.exe",
-          "open": ["08:40"],
-          "close": ["08:50"]
-        }
-      ]
-    }
+    "2025-12-18": ["09:15"]
   }
 }
