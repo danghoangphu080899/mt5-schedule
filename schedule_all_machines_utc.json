@@ -1,5 +1,33 @@
 {
   "TRI": {
-    "2025-12-17": ["17:16"]
+    "2025-12-21": {
+      "delay_seconds": 15,
+      "terminals": [
+        {
+          "name": "MT5_EURUSD",
+          "path": "C:\\Program Files\\FTMO Global Markets MT5 Terminal\\terminal64.exe",
+          "open": ["07:00"],
+          "close": ["16:30"]
+        },
+        {
+          "name": "MT5_GOLD",
+          "path": "‪C:/Users/maith/OneDrive/Máy tính/FTMO MT5/terminal64.exe",
+          "open": ["07:15"],
+          "close": ["17:00"]
+        },
+        {
+          "name": "MT4_SCALP",
+          "path": "C:/MT4/SCALP/terminal.exe",
+          "open": ["06:30"],
+          "close": ["15:00"]
+        },
+        {
+          "name": "MT4_SWING",
+          "path": "C:/MT4/SWING/terminal.exe",
+          "open": ["08:00"],
+          "close": ["18:00"]
+        }
+      ]
+    }
   }
 }
