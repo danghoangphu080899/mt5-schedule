@@ -1,15 +1,32 @@
 {
   "TRI": {
     "_info": {
-      "alias": "Máy Hàn Quốc"
+      "alias": "Han Quoc"
     },
-    "2025-12-18": ["14:25"]
+    "2025-12-18": ["14:30"]
   },
-
   "DESKTOP-26E02OE": {
     "_info": {
-      "alias": "Máy Saho"
+      "alias": "Saho"
     },
     "2025-12-18": ["15:15"]
+  },
+  "WIN-MP4UV3M2OMM": {
+    "_info": {
+      "alias": "Maguin"
+    },
+    "2025-12-18": ["15:35"]
+  },
+  "DESKTOP-ISIJ6M4": {
+    "_info": {
+      "alias": "Dong Thap"
+    },
+    "2025-12-18": ["15:50"]
+  },
+  "LAPTOP-VSN611JM": {
+    "_info": {
+      "alias": "Dai Loan 4"
+    },
+    "2025-12-18": ["16:00"]
   }
 }
